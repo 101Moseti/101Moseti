@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @101Moseti
 - 👀 I’m interested in taking care of the people I love and making life changing products.
 - 🌱 I’m currently building vibesec ; www.vibesec.app
-- 💞️ I’m looking to collaborate on native mobile apps
 - 📫 How to reach me - email- moseti@thegenesiscloud.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I coded a full stack AI Sales training application in 2 days and shipped it.
